@@ -1,0 +1,14 @@
+C:\Users\rarai\source\repos\EmployeeManagerWebApi\EmployeeManagerWebApi\bin\Debug\netcoreapp2.2\EmployeeManagerWebApi.deps.json
+C:\Users\rarai\source\repos\EmployeeManagerWebApi\EmployeeManagerWebApi\bin\Debug\netcoreapp2.2\EmployeeManagerWebApi.runtimeconfig.json
+C:\Users\rarai\source\repos\EmployeeManagerWebApi\EmployeeManagerWebApi\bin\Debug\netcoreapp2.2\EmployeeManagerWebApi.runtimeconfig.dev.json
+C:\Users\rarai\source\repos\EmployeeManagerWebApi\EmployeeManagerWebApi\bin\Debug\netcoreapp2.2\EmployeeManagerWebApi.dll
+C:\Users\rarai\source\repos\EmployeeManagerWebApi\EmployeeManagerWebApi\bin\Debug\netcoreapp2.2\EmployeeManagerWebApi.pdb
+C:\Users\rarai\source\repos\EmployeeManagerWebApi\EmployeeManagerWebApi\obj\Debug\netcoreapp2.2\EmployeeManagerWebApi.csprojAssemblyReference.cache
+C:\Users\rarai\source\repos\EmployeeManagerWebApi\EmployeeManagerWebApi\obj\Debug\netcoreapp2.2\EmployeeManagerWebApi.csproj.CoreCompileInputs.cache
+C:\Users\rarai\source\repos\EmployeeManagerWebApi\EmployeeManagerWebApi\obj\Debug\netcoreapp2.2\EmployeeManagerWebApi.RazorAssemblyInfo.cache
+C:\Users\rarai\source\repos\EmployeeManagerWebApi\EmployeeManagerWebApi\obj\Debug\netcoreapp2.2\EmployeeManagerWebApi.RazorAssemblyInfo.cs
+C:\Users\rarai\source\repos\EmployeeManagerWebApi\EmployeeManagerWebApi\obj\Debug\netcoreapp2.2\EmployeeManagerWebApi.AssemblyInfoInputs.cache
+C:\Users\rarai\source\repos\EmployeeManagerWebApi\EmployeeManagerWebApi\obj\Debug\netcoreapp2.2\EmployeeManagerWebApi.AssemblyInfo.cs
+C:\Users\rarai\source\repos\EmployeeManagerWebApi\EmployeeManagerWebApi\obj\Debug\netcoreapp2.2\EmployeeManagerWebApi.RazorTargetAssemblyInfo.cache
+C:\Users\rarai\source\repos\EmployeeManagerWebApi\EmployeeManagerWebApi\obj\Debug\netcoreapp2.2\EmployeeManagerWebApi.dll
+C:\Users\rarai\source\repos\EmployeeManagerWebApi\EmployeeManagerWebApi\obj\Debug\netcoreapp2.2\EmployeeManagerWebApi.pdb
